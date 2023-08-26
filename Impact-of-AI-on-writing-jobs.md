@@ -3,7 +3,7 @@ Artificial intelligence (AI) has rapidly emerged as one of the most transformati
 It has played a major role in reshaping industries and influencing various aspects of everyone's life. 
 Initially, AI was only confined to rule-based systems, where explicit instructions governed all its actions. 
 However, the real breakthrough came with machine learning. This enabled AI systems to learn from data and improve their performance over time. 
-AI&#39;s influence spans across a multitude of industries and have revolutionizing the way we work and live.
+AI&#39;s influence spans across a multitude of industries and have revolutionized the way we work and live.
 This shift led to the development of neural networks and deep learning, which mimic the human brain&#39;s interconnected neurons. 
 This enabled AI to process complex patterns and solve intricate problems.
 
