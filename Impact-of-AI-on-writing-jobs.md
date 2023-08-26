@@ -1,4 +1,4 @@
-**Impact of AI on writing jobs**
+#Impact of AI on writing jobs
 
 Artificial intelligence (AI) has rapidly emerged as one of the most transformative technologies of the 21st century. 
 It has played a major role in reshaping industries and influencing various aspects of everyone's life. 
